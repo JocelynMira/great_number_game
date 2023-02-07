@@ -1,0 +1,34 @@
+.correct_box {
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    font-size: 1.5em;
+    border: 1px solid black;
+    background-color: green;
+    color: aliceblue;
+    text-align: center;
+}
+.low_box {
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    
+    border: 1px solid black;
+    background-color: red;
+    color: aliceblue;
+}
+.high_box {
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: red;
+    color: aliceblue;
+}
+.replay {
+    text-align: center;
+    font-size: medium;
+}
